@@ -228,7 +228,7 @@
         </repository>
         <repository>
             <id>appfuse</id>
-            <url>http://static.appfuse.org/repository</url>
+            <url>https://static.appfuse.org/repository</url>
         </repository>
 		<repository>
 			<id>sun1</id>
