@@ -225,11 +225,7 @@
         <repository>
             <id>central</id>
             <url>https://repo1.maven.org/maven2</url>
-        </repository>
-        <repository>
-            <id>appfuse</id>
-            <url>https://static.appfuse.org/repository</url>
-        </repository>
+	</repository>
 		<repository>
 			<id>sun1</id>
 			<url>http://download.java.net/maven/1</url>
