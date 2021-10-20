@@ -15,7 +15,7 @@
     <version>1.1.2</version>
     <name>OpenXDS Parent</name>
     <description>Implements the IHE XDS profile - XDS Repository and Registry actors</description>
-    <url>https://openxds.projects.openhealthtools.org</url>
+    
 
     <prerequisites>
         <maven>2.0.6</maven>
